@@ -1,0 +1,52 @@
+# Environment files
+.env
+*.env
+frontend/.env
+backend/.env
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Local config
+*.local
+
+# Database / app data
+.chromadb/
+uploads/
+*.sqlite3
+*.db
+
+# Build files
+build/
+
+# IDE files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
