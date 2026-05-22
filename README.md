@@ -119,11 +119,10 @@ npm run dev
 2. Set the Framework Preset to **Vite** (or let Vercel auto-detect it).
 3. Set the Root Directory to `frontend`.
 4. In the Environment Variables section, add:
-   - `VITE_API_URL`: Your deployed backend URL (e.g., `https://docmind-backend.onrender.com`).
+   - `VITE_API_URL`: `https://docmind-backend.onrender.com`.
 5. Click **Deploy**. Your frontend will be built and hosted globally.
 
 ---
 
-## 📝 License
-
-This project is open-source and available under the MIT License.
+## Deployment Link 
+ - `https://ai-document-analyzer-mu.vercel.app/`
